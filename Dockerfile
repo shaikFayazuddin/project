@@ -1,2 +1,2 @@
 FROM devopsedu/webapp
-COPY . /var/WWW/
+COPY . /var/WWW/html
